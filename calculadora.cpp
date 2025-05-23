@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     
-    cout << "Bienvenidos a la calculadora" << endl;
+    cout << "Bienvenidos a la clase" << endl;
 
     return 0;
 }
